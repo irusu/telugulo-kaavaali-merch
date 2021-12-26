@@ -2,7 +2,7 @@
 1. Go to [vistaprint/drinkware/engraved sipper bottle](https://brandstore.vistaprint.in/product/engraved-sipper-bottles-750-ml-/)
 2. Download the print assets listed below
 3. Upload to the online design tool
-4. Choose quality of paper, pay them money and wait.
+4. Confirm design, pay them money and wait.
 
 **Size**:
 * 50×127 mm
